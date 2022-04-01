@@ -5,5 +5,6 @@ public class TextCont {
         System.out.println("hello git");
         System.out.println("hello git dev");
         System.out.println("hello git text分支");
+        System.out.println("这是github上的第一次提交");
     }
 }
